@@ -1,0 +1,15 @@
+# Ignore tpl files:
+*.tpl
+
+# Ignore YAML files:
+*.yml
+*.yaml
+
+# Ignore phptxt files:
+*.phptxt
+
+# Ignore sql files:
+*.sql
+
+# Ignore prettierignore files, this is getting meta:
+*.prettierignore

@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":287:{a:2:{s:7:"defects";a:3:{s:7:"Warning";i:6;s:36:"MarketTest::testAfterRemovedProductA";i:4;s:38:"DbconfigTest::testAfterRemovedProductA";i:4;}s:5:"times";a:3:{s:7:"Warning";d:0.158;s:36:"MarketTest::testAfterRemovedProductA";d:0.084;s:38:"DbconfigTest::testAfterRemovedProductA";d:0.01;}}}
